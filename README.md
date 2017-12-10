@@ -8,7 +8,7 @@ Highlights:
 
 •	As the input I used “football” folder in BBC articles collection provided as part of the exam.
 
-- There are two files:
+• There are two files:
 
   •	TFIDF.hql: for making inverted index and calculating TFIDF scores
   
