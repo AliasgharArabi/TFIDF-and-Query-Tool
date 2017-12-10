@@ -1,6 +1,7 @@
 # TFIDF-Elastic-Search
 Implementation of TFIDF and Elastic Search using Hive for the "big data tool" course as part of Master of Sience in Data Science program.
 My program creates Inverted index, TFID score for every word in each document, and finally retrieve documents with highest score containing the provided search words.
+
 Highlights:
 •	I used Apache HIVE 
 •	As the input I used “football” folder in BBC articles collection provided as part of the exam.
